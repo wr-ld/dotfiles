@@ -1,0 +1,8 @@
+/*
+!.gitignore
+!.bashrc
+!.vimrc
+!/.config
+/.config/*
+!/.config/alacritty
+!/.config/qtile
