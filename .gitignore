@@ -4,5 +4,5 @@
 !.vimrc
 !/.config
 /.config/*
-!/.config/alacritty
-!/.config/qtile
+!/.config/alacritty/alacritty.yml
+!/.config/qtile/config.py
