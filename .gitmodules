@@ -1,0 +1,3 @@
+[submodule "/home/ryan/.config/nvim"]
+	path = /home/ryan/.config/nvim
+	url = https://github.com/LunarVim/Neovim-from-scratch.git

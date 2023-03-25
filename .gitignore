@@ -6,3 +6,4 @@
 /.config/*
 !/.config/alacritty/alacritty.yml
 !/.config/qtile/config.py
+!/.config/nvim
