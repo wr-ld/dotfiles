@@ -2,6 +2,8 @@
 !.gitignore
 !.bashrc
 !.vimrc
+!.pkglist
+!.foreignpkglist
 !/.config
 /.config/*
 !/.config/alacritty/alacritty.yml
