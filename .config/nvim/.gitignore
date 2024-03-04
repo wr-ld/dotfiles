@@ -6,3 +6,12 @@ debug
 foo.*
 *.log
 data
+
+#lazy auto generated files
+.neoconf.json
+lazy-lock.json
+lazyvim.jsonstylua.toml
+
+#boilerplate files
+LICENSE
+README.md
