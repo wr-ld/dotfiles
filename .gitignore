@@ -6,7 +6,9 @@
 !.foreignpkglist
 !/.config
 /.config/*
-!/.config/alacritty/alacritty.yml
-!/.config/alacritty/alacritty.toml
-!/.config/qtile/config.py
+!/.config/alacritty
+#!/.config/alacritty/alacritty.yml
+#!/.config/alacritty/alacritty.toml
+#!/.config/qtile/config.py
+!/.config/qtile
 !/.config/nvim
