@@ -10,6 +10,7 @@ data
 #lazy auto generated files
 .neoconf.json
 lazy-lock.json
+lazyvim.json
 lazyvim.jsonstylua.toml
 
 #boilerplate files
