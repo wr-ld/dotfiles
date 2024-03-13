@@ -11,6 +11,7 @@ cppcheck
 debugedit
 efibootmgr
 fakeroot
+fd
 firefox
 flex
 geeqie
@@ -18,9 +19,9 @@ gimp
 git
 github-cli
 grub
-heroic-games-launcher
 htop
 iwd
+lazygit
 linux
 linux-firmware
 m4
@@ -32,7 +33,6 @@ npm
 patch
 pkgconf
 powerline
-powerline-fonts-git
 powerline-vim
 prettier
 pulseaudio
@@ -40,7 +40,6 @@ pulseaudio-alsa
 python-black
 python-pynvim
 qtile
-qtile-extras
 ripgrep-all
 rnote
 sof-firmware
@@ -104,5 +103,4 @@ xorg-xwininfo
 xorg-xwud
 xsel
 xterm
-yay
 zip
